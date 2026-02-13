@@ -1,0 +1,1126 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.8 e802775f",
+  "osm3s": {
+    "timestamp_osm_base": "2026-01-22T16:07:26Z",
+    "timestamp_areas_base": "2026-01-22T10:07:12Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+    {
+      "type": "node",
+      "id": 29426550,
+      "lat": 51.5481999,
+      "lon": -2.9484549,
+      "tags": {
+        "is_in": "Newport",
+        "is_in:historic_county": "Monmouthshire",
+        "name": "Nash",
+        "name:cy": "Trefonnen",
+        "name:en": "Nash",
+        "place": "village",
+        "source": "npe"
+      }
+    },
+    {
+      "type": "node",
+      "id": 29488337,
+      "lat": 51.6002803,
+      "lon": -2.8760288,
+      "tags": {
+        "is_in:city": "Newport",
+        "name": "Llanmartin",
+        "name:cy": "Llanfarthyn",
+        "place": "village",
+        "source": "npe",
+        "wikidata": "Q6661646"
+      }
+    },
+    {
+      "type": "node",
+      "id": 29488392,
+      "lat": 51.6127696,
+      "lon": -2.8902907,
+      "tags": {
+        "created_by": "POI Editor",
+        "is_in": "Newport",
+        "is_in:historic_county": "Monmouthshire",
+        "name": "Llanbeder",
+        "place": "hamlet",
+        "postal_code": "NP18",
+        "source": "npe"
+      }
+    },
+    {
+      "type": "node",
+      "id": 29488411,
+      "lat": 51.6037473,
+      "lon": -2.9133807,
+      "tags": {
+        "is_in:city": "Newport",
+        "name": "Langstone",
+        "name:zh-Hant": "朗石",
+        "place": "suburb",
+        "population": "3279",
+        "population:date": "2011-03-27",
+        "source": "npe",
+        "source:population": "https://www.nomisweb.co.uk"
+      }
+    },
+    {
+      "type": "node",
+      "id": 29488412,
+      "lat": 51.584364,
+      "lon": -2.8787872,
+      "tags": {
+        "alt_name": "Bishopston",
+        "alt_name:cy": "Trefesgob",
+        "is_in:city": "Newport",
+        "is_in:historic_county": "Monmouthshire",
+        "name": "Bishton",
+        "name:cy": "Llangadwaladr Trefesgob",
+        "place": "village",
+        "source": "npe"
+      }
+    },
+    {
+      "type": "node",
+      "id": 29488413,
+      "lat": 51.5877712,
+      "lon": -2.9143112,
+      "tags": {
+        "is_in:city": "Newport",
+        "is_in:historic_county": "Monmouthshire",
+        "name": "Llanwern",
+        "place": "village",
+        "source": "npe"
+      }
+    },
+    {
+      "type": "node",
+      "id": 29488414,
+      "lat": 51.5433853,
+      "lon": -2.9151268,
+      "tags": {
+        "is_in:city": "Newport",
+        "is_in:historic_county": "Monmouthshire",
+        "name": "Goldcliff",
+        "name:cy": "Allteuryn",
+        "name:en": "Goldcliff",
+        "place": "village",
+        "source": "npe"
+      }
+    },
+    {
+      "type": "node",
+      "id": 29488415,
+      "lat": 51.5526618,
+      "lon": -2.849432,
+      "tags": {
+        "is_in:city": "Newport",
+        "is_in:historic_county": "Monmouthshire",
+        "name": "Redwick",
+        "name:cy": "Y Redwig",
+        "name:en": "Redwick",
+        "place": "village",
+        "population": "206",
+        "source": "npe"
+      }
+    },
+    {
+      "type": "node",
+      "id": 29498960,
+      "lat": 51.6222221,
+      "lon": -2.8198574,
+      "tags": {
+        "is_in:city": "Newport",
+        "is_in:historic_county": "Monmouthshire",
+        "name": "Llanvaches",
+        "name:cy": "Llanfaches",
+        "place": "village",
+        "source": "npe",
+        "wikidata": "Q6661829",
+        "wikipedia": "en:Llanvaches"
+      }
+    },
+    {
+      "type": "node",
+      "id": 286330891,
+      "lat": 51.6150463,
+      "lon": -2.8444829,
+      "tags": {
+        "is_in": "Newport",
+        "is_in:historic_county": "Monmouthshire",
+        "name": "Penhow",
+        "name:cy": "Pen-hw",
+        "place": "hamlet",
+        "population": "744",
+        "population:date": "2011",
+        "postal_code": "NP26",
+        "source:population": "https://www.nomisweb.co.uk"
+      }
+    },
+    {
+      "type": "node",
+      "id": 292697668,
+      "lat": 51.5814374,
+      "lon": -3.0691994,
+      "tags": {
+        "is_in:city": "Newport",
+        "name": "Rhiwderin",
+        "name:cy": "Rhiw-deryn",
+        "place": "village",
+        "wikidata": "Q7320728"
+      }
+    },
+    {
+      "type": "node",
+      "id": 293350467,
+      "lat": 51.515589,
+      "lon": -3.0560808,
+      "tags": {
+        "is_in:city": "Newport",
+        "name": "Peterstone Wentlooge",
+        "name:cy": "Llanbedr Gwynllwg",
+        "place": "hamlet",
+        "population": "781",
+        "population:date": "2021-03-21",
+        "ref:gss": "W04000836",
+        "source:population": "https://www.nomisweb.co.uk",
+        "wikidata": "Q7178275"
+      }
+    },
+    {
+      "type": "node",
+      "id": 293350729,
+      "lat": 51.5339243,
+      "lon": -3.0202552,
+      "tags": {
+        "is_in:city": "Newport",
+        "name": "Saint Bride's Wentlooge",
+        "name:cy": "Llansanffraid Gwynllŵg",
+        "place": "hamlet",
+        "wikidata": "Q7587366"
+      }
+    },
+    {
+      "type": "node",
+      "id": 294963349,
+      "lat": 51.6124618,
+      "lon": -2.9085968,
+      "tags": {
+        "alt_name": "Cat's Ash",
+        "is_in:city": "Newport",
+        "name": "Catsash",
+        "name:cy": "Cathonnen",
+        "place": "hamlet",
+        "wikidata": "Q5050960"
+      }
+    },
+    {
+      "type": "node",
+      "id": 296235199,
+      "lat": 51.5329849,
+      "lon": -3.0657879,
+      "tags": {
+        "is_in:city": "Newport",
+        "is_in:historic_county": "Monmouthshire",
+        "name": "Marshfield",
+        "name:cy": "Maerun",
+        "name:en": "Marshfield",
+        "place": "village",
+        "population": "2319"
+      }
+    },
+    {
+      "type": "node",
+      "id": 340480157,
+      "lat": 51.5760395,
+      "lon": -3.0146212,
+      "tags": {
+        "is_in:city": "Newport",
+        "name": "Gaer",
+        "name:cy": "Y Gaer",
+        "name:en": "Gaer",
+        "place": "suburb",
+        "source": "NPE"
+      }
+    },
+    {
+      "type": "node",
+      "id": 340482701,
+      "lat": 51.5941188,
+      "lon": -3.0115741,
+      "tags": {
+        "is_in:city": "Newport",
+        "name": "Allt-yr-yn",
+        "name:cy": "Allt-yr-ynn",
+        "place": "suburb",
+        "source": "NPE"
+      }
+    },
+    {
+      "type": "node",
+      "id": 340486705,
+      "lat": 51.5491768,
+      "lon": -3.0383979,
+      "tags": {
+        "is_in:city": "Newport",
+        "name": "Coedkernew",
+        "name:cy": "Coedcernyw",
+        "name:en": "Coedkernew",
+        "place": "suburb",
+        "source": "NPE"
+      }
+    },
+    {
+      "type": "node",
+      "id": 372950784,
+      "lat": 51.6108349,
+      "lon": -3.0281527,
+      "tags": {
+        "is_in:city": "Newport",
+        "name": "Bettws",
+        "name:cy": "Betws",
+        "name:en": "Bettws",
+        "place": "suburb",
+        "population": "7606",
+        "wikidata": "Q4898677",
+        "wikipedia": "en:Bettws, Newport"
+      }
+    },
+    {
+      "type": "node",
+      "id": 376909250,
+      "lat": 51.5766335,
+      "lon": -3.0480378,
+      "tags": {
+        "is_in:city": "Newport",
+        "name": "Bassaleg",
+        "name:cy": "Basaleg",
+        "name:en": "Bassaleg",
+        "place": "suburb",
+        "wikidata": "Q4868001",
+        "wikipedia": "en:Bassaleg"
+      }
+    },
+    {
+      "type": "node",
+      "id": 391006961,
+      "lat": 51.5484689,
+      "lon": -2.8972303,
+      "tags": {
+        "is_in:city": "Newport",
+        "is_in:historic_county": "Monmouthshire",
+        "name": "Whitson",
+        "place": "village",
+        "wikidata": "Q7996795"
+      }
+    },
+    {
+      "type": "node",
+      "id": 443844811,
+      "lat": 51.6000642,
+      "lon": -2.9735689,
+      "tags": {
+        "is_in:city": "Newport",
+        "name": "St Julians",
+        "name:cy": "Sant Silian",
+        "place": "suburb"
+      }
+    },
+    {
+      "type": "node",
+      "id": 443853900,
+      "lat": 51.5922451,
+      "lon": -2.975011,
+      "tags": {
+        "is_in:city": "Newport",
+        "name": "Maindee",
+        "name:cy": "Maendy",
+        "place": "suburb",
+        "population": "8282",
+        "population:date": "2021-03-21",
+        "source:population": "https://www.nomisweb.co.uk",
+        "wikidata": "Q15243879"
+      }
+    },
+    {
+      "type": "node",
+      "id": 443853903,
+      "lat": 51.5926555,
+      "lon": -2.9642537,
+      "tags": {
+        "is_in:city": "Newport",
+        "name": "Beechwood",
+        "name:cy": "Coed Ffawydd",
+        "place": "suburb"
+      }
+    },
+    {
+      "type": "node",
+      "id": 443853905,
+      "lat": 51.591159,
+      "lon": -2.9344981,
+      "tags": {
+        "is_in:city": "Newport",
+        "name": "Ringland",
+        "place": "suburb",
+        "population": "8305",
+        "population:date": "2021-03-21",
+        "source:population": "Census 2021"
+      }
+    },
+    {
+      "type": "node",
+      "id": 469735283,
+      "lat": 51.5790379,
+      "lon": -3.0375707,
+      "tags": {
+        "is_in:city": "Newport",
+        "name": "Pye Corner",
+        "place": "suburb"
+      }
+    },
+    {
+      "type": "node",
+      "id": 470263224,
+      "lat": 51.6161999,
+      "lon": -3.0141213,
+      "tags": {
+        "is_in:city": "Newport",
+        "name": "Malpas Court",
+        "name:cy": "Llys Malpas",
+        "name:en": "Malpas Court",
+        "place": "suburb",
+        "wikidata": "Q29495792"
+      }
+    },
+    {
+      "type": "node",
+      "id": 470264800,
+      "lat": 51.5887602,
+      "lon": -3.0355571,
+      "tags": {
+        "is_in:city": "Newport",
+        "is_in:historic_county": "Monmouthshire",
+        "name": "High Cross",
+        "place": "suburb",
+        "source": "NPE",
+        "wikidata": "Q5755282",
+        "wikipedia": "en:High Cross, Newport"
+      }
+    },
+    {
+      "type": "node",
+      "id": 470285624,
+      "lat": 51.5553811,
+      "lon": -3.0959518,
+      "tags": {
+        "addr:city": "Newport",
+        "addr:suburb": "Michaelstone-y-Fedw",
+        "is_in:city": "Newport",
+        "is_in:historic_county": "Monmouthshire",
+        "name": "Michaelston-y-Fedw",
+        "name:cy": "Llanfihangel-y-fedw",
+        "place": "hamlet",
+        "population": "311",
+        "population:date": "2021-03-21",
+        "source:population": "https://www.nomisweb.co.uk/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 470340576,
+      "lat": 51.5955423,
+      "lon": -2.9752045,
+      "tags": {
+        "is_in:city": "Newport",
+        "name": "Summerhill",
+        "name:cy": "Bryn yr Haf",
+        "place": "suburb",
+        "wikidata": "Q107032945"
+      }
+    },
+    {
+      "type": "node",
+      "id": 470457593,
+      "lat": 51.5889184,
+      "lon": -3.082313,
+      "tags": {
+        "is_in": "Newport",
+        "name": "Five Lanes",
+        "place": "hamlet"
+      }
+    },
+    {
+      "type": "node",
+      "id": 471137108,
+      "lat": 51.5937433,
+      "lon": -2.9844721,
+      "tags": {
+        "is_in:city": "Newport",
+        "name": "Barnardtown",
+        "name:cy": "Tref Barnard",
+        "name:en": "Barnardtown",
+        "place": "suburb",
+        "wikidata": "Q4861449"
+      }
+    },
+    {
+      "type": "node",
+      "id": 471137110,
+      "lat": 51.578811,
+      "lon": -2.9891756,
+      "tags": {
+        "is_in:city": "Newport",
+        "name": "Pillgwenlly",
+        "name:cy": "Pillgwenlli",
+        "name:en": "Pillgwenlly",
+        "place": "suburb"
+      }
+    },
+    {
+      "type": "node",
+      "id": 471137112,
+      "lat": 51.5675552,
+      "lon": -3.0119636,
+      "tags": {
+        "is_in:city": "Newport",
+        "name": "Maesglas",
+        "place": "suburb",
+        "wikidata": "Q6729299"
+      }
+    },
+    {
+      "type": "node",
+      "id": 471190515,
+      "lat": 51.5999449,
+      "lon": -3.0009637,
+      "tags": {
+        "is_in:city": "Newport",
+        "name": "Crindau",
+        "place": "suburb",
+        "wikidata": "Q5185733"
+      }
+    },
+    {
+      "type": "node",
+      "id": 471299790,
+      "lat": 51.6055625,
+      "lon": -2.9480991,
+      "tags": {
+        "is_in": "Newport",
+        "name": "Ultra Pontem",
+        "name:cy": "Hwnt i'r Bont",
+        "place": "hamlet"
+      }
+    },
+    {
+      "type": "node",
+      "id": 471299791,
+      "lat": 51.6185676,
+      "lon": -2.9259548,
+      "tags": {
+        "is_in:city": "Newport",
+        "name": "Bulmore",
+        "place": "hamlet"
+      }
+    },
+    {
+      "type": "node",
+      "id": 471300517,
+      "lat": 51.5857813,
+      "lon": -2.945138,
+      "tags": {
+        "is_in:city": "Newport",
+        "name": "Alway",
+        "place": "suburb",
+        "population": "8331",
+        "population:date": "2011",
+        "source:population": "https://www.nomisweb.co.uk"
+      }
+    },
+    {
+      "type": "node",
+      "id": 471300521,
+      "lat": 51.5889277,
+      "lon": -2.9541073,
+      "tags": {
+        "is_in:city": "Newport",
+        "name": "Ladyhill",
+        "place": "suburb"
+      }
+    },
+    {
+      "type": "node",
+      "id": 471300525,
+      "lat": 51.5830614,
+      "lon": -2.9611454,
+      "tags": {
+        "is_in:city": "Newport",
+        "name": "Somerton",
+        "place": "suburb",
+        "wikidata": "Q7559940"
+      }
+    },
+    {
+      "type": "node",
+      "id": 471300529,
+      "lat": 51.5817281,
+      "lon": -2.9506311,
+      "tags": {
+        "alt_name": "Lliswerry",
+        "name": "Lliswerry",
+        "name:cy": "Llysywyry",
+        "place": "suburb"
+      }
+    },
+    {
+      "type": "node",
+      "id": 471300709,
+      "lat": 51.56028,
+      "lon": -3.0189997,
+      "tags": {
+        "alt_name": "Tredegar Park",
+        "is_in:city": "Newport",
+        "name": "Duffryn",
+        "place": "suburb",
+        "population": "4421",
+        "population:date": "2011-03-27",
+        "source": "NPE",
+        "source:population": "https://www.nomisweb.co.uk",
+        "wikidata": "Q15215279"
+      }
+    },
+    {
+      "type": "node",
+      "id": 471333793,
+      "lat": 51.586906,
+      "lon": -2.9993737,
+      "tags": {
+        "is_in:city": "Newport",
+        "name": "Baneswell",
+        "place": "suburb",
+        "wikidata": "Q4854847"
+      }
+    },
+    {
+      "type": "node",
+      "id": 471491560,
+      "lat": 51.5824407,
+      "lon": -2.9984107,
+      "tags": {
+        "is_in:city": "Newport",
+        "name": "St. Woolos",
+        "place": "suburb"
+      }
+    },
+    {
+      "type": "node",
+      "id": 477245452,
+      "lat": 51.5818053,
+      "lon": -3.0079146,
+      "tags": {
+        "is_in:city": "Newport",
+        "name": "Stow Park",
+        "place": "suburb",
+        "wikidata": "Q107032942"
+      }
+    },
+    {
+      "type": "node",
+      "id": 477245454,
+      "lat": 51.5794319,
+      "lon": -3.0137511,
+      "tags": {
+        "is_in:city": "Newport",
+        "name": "Stelvio",
+        "name:cy": "Stelfio",
+        "place": "suburb",
+        "wikidata": "Q107032940"
+      }
+    },
+    {
+      "type": "node",
+      "id": 477245458,
+      "lat": 51.5879651,
+      "lon": -3.0213042,
+      "tags": {
+        "is_in:city": "Newport",
+        "name": "Ridgeway",
+        "place": "suburb",
+        "population": "1513",
+        "wikidata": "Q24182412",
+        "wikipedia": "en:Ridgeway, Newport"
+      }
+    },
+    {
+      "type": "node",
+      "id": 477245462,
+      "lat": 51.5977351,
+      "lon": -3.005916,
+      "tags": {
+        "is_in:city": "Newport",
+        "name": "Barrack Hill",
+        "name:cy": "Bryn Baric",
+        "place": "suburb",
+        "wikidata": "Q25171463"
+      }
+    },
+    {
+      "type": "node",
+      "id": 477245466,
+      "lat": 51.5793252,
+      "lon": -3.0593272,
+      "tags": {
+        "is_in:city": "Newport",
+        "name": "Graig",
+        "place": "suburb",
+        "population": "6159"
+      }
+    },
+    {
+      "type": "node",
+      "id": 477245470,
+      "lat": 51.5919912,
+      "lon": -2.955,
+      "tags": {
+        "is_in:city": "Newport",
+        "name": "Lawrence Hill",
+        "place": "suburb",
+        "population": "5794",
+        "population:date": "2021-03-21",
+        "source:population": "https://www.nomisweb.co.uk",
+        "wikidata": "Q107032604"
+      }
+    },
+    {
+      "type": "node",
+      "id": 477245475,
+      "lat": 51.5920978,
+      "lon": -2.9410096,
+      "tags": {
+        "is_in:city": "Newport",
+        "name": "Bishpool",
+        "place": "suburb",
+        "wikidata": "Q4918135"
+      }
+    },
+    {
+      "type": "node",
+      "id": 477245479,
+      "lat": 51.5991892,
+      "lon": -2.9354306,
+      "tags": {
+        "is_in:city": "Newport",
+        "name": "Coldra",
+        "place": "suburb",
+        "wikidata": "Q27878947"
+      }
+    },
+    {
+      "type": "node",
+      "id": 477245483,
+      "lat": 51.5981641,
+      "lon": -2.9959699,
+      "tags": {
+        "is_in:city": "Newport",
+        "name": "Shaftesbury",
+        "name:cy": "Shaftesbury",
+        "name:en": "Shaftesbury",
+        "place": "suburb"
+      }
+    },
+    {
+      "type": "node",
+      "id": 487435758,
+      "lat": 51.591707,
+      "lon": -3.0546846,
+      "tags": {
+        "is_in:city": "Newport",
+        "is_in:historic_county": "Monmouthshire",
+        "name": "Rogerstone",
+        "name:cy": "Tŷ-du",
+        "place": "suburb"
+      }
+    },
+    {
+      "type": "node",
+      "id": 487928900,
+      "lat": 51.6071841,
+      "lon": -3.0054251,
+      "tags": {
+        "is_in:city": "Newport",
+        "is_in:historic_county": "Monmouthshire",
+        "name": "Malpas",
+        "place": "suburb"
+      }
+    },
+    {
+      "type": "node",
+      "id": 487928907,
+      "lat": 51.6200103,
+      "lon": -3.0072978,
+      "tags": {
+        "is_in:city": "Newport",
+        "is_in:historic_county": "Monmouthshire",
+        "name": "Woodlands",
+        "place": "suburb"
+      }
+    },
+    {
+      "type": "node",
+      "id": 487928917,
+      "lat": 51.6167329,
+      "lon": -3.0031779,
+      "tags": {
+        "is_in:city": "Newport",
+        "is_in:historic_county": "Monmouthshire",
+        "name": "Malpas Park",
+        "name:cy": "Parc Malpas",
+        "name:en": "Malpas Park",
+        "place": "suburb"
+      }
+    },
+    {
+      "type": "node",
+      "id": 498793799,
+      "lat": 51.5967589,
+      "lon": -2.8894577,
+      "tags": {
+        "fixme": "Is this a part of Llanmartin?",
+        "is_in:city": "Newport",
+        "is_in:historic_county": "Monmouthshire",
+        "name": "Underwood",
+        "name:cy": "Iscoed",
+        "name:zh": "下林",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 515726808,
+      "lat": 51.5932648,
+      "lon": -3.044462,
+      "tags": {
+        "is_in:city": "Newport",
+        "is_in:historic_county": "Monmouthshire",
+        "name": "Cefn",
+        "place": "suburb"
+      }
+    },
+    {
+      "type": "node",
+      "id": 525249182,
+      "lat": 51.5888273,
+      "lon": -2.9753629,
+      "tags": {
+        "is_in:city": "Newport",
+        "name": "Eveswell",
+        "place": "suburb"
+      }
+    },
+    {
+      "type": "node",
+      "id": 525249184,
+      "lat": 51.588582,
+      "lon": -2.9855081,
+      "tags": {
+        "is_in:city": "Newport",
+        "name": "Victoria",
+        "place": "suburb"
+      }
+    },
+    {
+      "type": "node",
+      "id": 526075921,
+      "lat": 51.6089826,
+      "lon": -2.8672125,
+      "tags": {
+        "is_in:city": "Newport",
+        "is_in:historic_county": "Monmouthshire",
+        "name": "Llandevaud",
+        "place": "hamlet",
+        "wikidata": "Q6661202"
+      }
+    },
+    {
+      "type": "node",
+      "id": 550405003,
+      "lat": 51.6213429,
+      "lon": -2.8566772,
+      "tags": {
+        "is_in": "Newport",
+        "is_in:historic_county": "Monmouthshire",
+        "name": "Parc Seymour",
+        "place": "hamlet",
+        "population": "744",
+        "population:date": "2011",
+        "source:population": "https://www.nomisweb.co.uk",
+        "wikidata": "Q7136380"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2636497177,
+      "lat": 51.5740826,
+      "lon": -3.0048469,
+      "tags": {
+        "is_in:city": "Newport",
+        "name": "Mon Bank",
+        "place": "neighbourhood"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2661397871,
+      "lat": 51.6094696,
+      "lon": -2.9540998,
+      "tags": {
+        "description": "A small village associated with an ancient Roman Fortress, located near to the city of Newport in South Wales.",
+        "is_in:city": "Newport",
+        "name": "Caerleon",
+        "name:ar": "كارليون",
+        "name:cy": "Caerllion",
+        "name:de": "Caerleon",
+        "name:en": "Caerleon",
+        "name:fr": "Caerleon",
+        "name:ru": "Карлеон",
+        "place": "village",
+        "population": "7971",
+        "population:date": "2021-03-21",
+        "ref:gss": "W02000347",
+        "source:population": "https://www.nomisweb.co.uk"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3426642950,
+      "lat": 51.5857952,
+      "lon": -3.1167688,
+      "tags": {
+        "is_in:city": "Newport",
+        "name": "Lower Machen",
+        "name:cy": "Machen Isaf",
+        "place": "hamlet",
+        "wikidata": "Q6693578"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3451691156,
+      "lat": 51.5625968,
+      "lon": -3.0942001,
+      "tags": {
+        "is_in:city": "Newport",
+        "name": "Lower Michaelston",
+        "name:cy": "Llanfihangel Isaf",
+        "place": "hamlet"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4950745703,
+      "lat": 51.5436738,
+      "lon": -3.0777337,
+      "tags": {
+        "addr:city": "Newport",
+        "addr:country": "GB",
+        "addr:suburb": "Castleton",
+        "name": "Castleton",
+        "place": "village",
+        "wikidata": "Q5050623"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5446678979,
+      "lat": 51.5752931,
+      "lon": -3.059398,
+      "tags": {
+        "name": "Pentre-Poeth",
+        "place": "neighbourhood"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5551533055,
+      "lat": 51.5828667,
+      "lon": -3.001629,
+      "tags": {
+        "name": "Stow Hill",
+        "name:cy": "Bryniau Stow",
+        "place": "suburb",
+        "population": "4773",
+        "population:date": "2011",
+        "source:population": "https://www.nomisweb.co.uk"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5901472444,
+      "lat": 51.576977,
+      "lon": -2.9361078,
+      "tags": {
+        "name": "Glan Llyn",
+        "place": "suburb"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6304272359,
+      "lat": 51.5884893,
+      "lon": -2.8538394,
+      "tags": {
+        "name": "Wilcrick",
+        "name:cy": "Chwilgrug",
+        "place": "hamlet",
+        "wikidata": "Q8000336"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7320246599,
+      "lat": 51.6004079,
+      "lon": -2.9434921,
+      "tags": {
+        "name": "Christchurch",
+        "name:cy": "Eglwys y Drindod",
+        "place": "suburb",
+        "wikidata": "Q5109052"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8000935899,
+      "lat": 51.6115963,
+      "lon": -2.9771537,
+      "tags": {
+        "name": "Home Farm",
+        "name:cy": "Fferm Gartref",
+        "name:en": "Home Farm",
+        "place": "neighbourhood"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8000935900,
+      "lat": 51.6144403,
+      "lon": -2.9775458,
+      "tags": {
+        "name": "Trinity View",
+        "name:cy": "Gweld y Drindod",
+        "place": "quarter"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8000935901,
+      "lat": 51.6178592,
+      "lon": -2.9683076,
+      "tags": {
+        "name": "Lodge Hill",
+        "name:cy": "Bryn Cyfrinfa",
+        "place": "neighbourhood"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8001348792,
+      "lat": 51.613823,
+      "lon": -2.9983066,
+      "tags": {
+        "name": "Pilton Vale",
+        "name:cy": "Dyffryn Pilton",
+        "place": "neighbourhood"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8001348793,
+      "lat": 51.6173478,
+      "lon": -3.0008293,
+      "tags": {
+        "name": "Claremont",
+        "place": "neighbourhood"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8112092334,
+      "lat": 51.5975273,
+      "lon": -2.9873974,
+      "tags": {
+        "is_in:city": "Newport",
+        "name": "East Usk",
+        "place": "suburb"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8751452721,
+      "lat": 51.6037428,
+      "lon": -3.0097373,
+      "tags": {
+        "name": "Blaen-Y-Pant",
+        "name:cy": "Blaen-Y-Pant",
+        "place": "neighbourhood"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8751452722,
+      "lat": 51.6080537,
+      "lon": -3.0050349,
+      "tags": {
+        "name": "Graig Park",
+        "name:cy": "Parc Graig",
+        "place": "neighbourhood"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9456812522,
+      "lat": 51.6050131,
+      "lon": -2.9983724,
+      "tags": {
+        "name": "Brynglas",
+        "name:cy": "Brynglas",
+        "place": "neighbourhood",
+        "population": "300",
+        "wikidata": "Q16985554",
+        "wikipedia": "en:Brynglas"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10977959153,
+      "lat": 51.5959153,
+      "lon": -3.0736259,
+      "tags": {
+        "name": "Afon Village",
+        "place": "neighbourhood"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 8193209,
+      "center": {
+        "lat": 51.5562762,
+        "lon": -3.0448354
+      },
+      "tags": {
+        "admin_level": "10",
+        "boundary": "administrative",
+        "designation": "community",
+        "name": "Coedkernew",
+        "name:cy": "Coedcernyw",
+        "place": "suburb",
+        "ref:gss": "W04000814",
+        "type": "boundary",
+        "wikidata": "Q5140556"
+      }
+    }
+  ]
+}

@@ -1,0 +1,1231 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.9 e847dec3",
+  "osm3s": {
+    "timestamp_osm_base": "2026-01-22T18:49:43Z",
+    "timestamp_areas_base": "2026-01-22T10:07:12Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+    {
+      "type": "node",
+      "id": 29369462,
+      "lat": 53.4311697,
+      "lon": -2.6545486,
+      "tags": {
+        "name": "Burtonwood",
+        "place": "village",
+        "population": "11265",
+        "population:date": "2001",
+        "source": "npe",
+        "source:population": "wikipedia",
+        "wikidata": "Q995213",
+        "wikipedia": "en:Burtonwood"
+      }
+    },
+    {
+      "type": "node",
+      "id": 29369473,
+      "lat": 53.3958737,
+      "lon": -2.664226,
+      "tags": {
+        "is_in:city": "Warrington",
+        "is_in:suburb": "Great Sankey",
+        "name": "Lingley Green",
+        "place": "quarter",
+        "source": "npe"
+      }
+    },
+    {
+      "type": "node",
+      "id": 29369477,
+      "lat": 53.441295,
+      "lon": -2.6648081,
+      "tags": {
+        "is_in:town": "Burtonwood",
+        "name": "Collins Green",
+        "place": "village",
+        "source": "npe",
+        "wikidata": "Q124095064"
+      }
+    },
+    {
+      "type": "node",
+      "id": 29780369,
+      "lat": 53.3811782,
+      "lon": -2.4764512,
+      "tags": {
+        "is_in": "Warrington",
+        "name": "Lymm",
+        "place": "village",
+        "population": "12350",
+        "wikidata": "Q998181",
+        "wikipedia": "en:Lymm"
+      }
+    },
+    {
+      "type": "node",
+      "id": 30416959,
+      "lat": 53.4562726,
+      "lon": -2.5583547,
+      "tags": {
+        "is_in:city": "Warrington",
+        "name": "Kenyon",
+        "place": "village",
+        "population": "259",
+        "source": "npe",
+        "source:population": "wikipedia",
+        "wikidata": "Q6392935",
+        "wikipedia": "en:Kenyon, Cheshire"
+      }
+    },
+    {
+      "type": "node",
+      "id": 30416960,
+      "lat": 53.4483618,
+      "lon": -2.5584603,
+      "tags": {
+        "is_in:city": "Warrington",
+        "name": "New Lane End",
+        "place": "hamlet",
+        "source": "npe"
+      }
+    },
+    {
+      "type": "node",
+      "id": 30431710,
+      "lat": 53.4519289,
+      "lon": -2.5225433,
+      "tags": {
+        "is_in:city": "Warrington",
+        "name": "Culcheth",
+        "place": "village",
+        "population": "11454",
+        "source:population": "wikipedia",
+        "wikidata": "Q5192880",
+        "wikipedia": "en:Culcheth"
+      }
+    },
+    {
+      "type": "node",
+      "id": 30431711,
+      "lat": 53.4147717,
+      "lon": -2.4579727,
+      "tags": {
+        "is_in": "Glazebrook",
+        "name": "Hollins Green",
+        "place": "village",
+        "source": "npe",
+        "wikidata": "Q5881521"
+      }
+    },
+    {
+      "type": "node",
+      "id": 30431712,
+      "lat": 53.424084,
+      "lon": -2.4554702,
+      "tags": {
+        "is_in": "Warrington, Cheshire, England, UK",
+        "is_in:town": "Warrington",
+        "name": "Glazebrook",
+        "place": "village",
+        "source": "npe"
+      }
+    },
+    {
+      "type": "node",
+      "id": 30431732,
+      "lat": 53.4726704,
+      "lon": -2.4948032,
+      "tags": {
+        "is_in:city": "Warrington",
+        "name": "Glazebury",
+        "place": "village",
+        "source": "npe",
+        "wikidata": "Q39391910"
+      }
+    },
+    {
+      "type": "node",
+      "id": 30431733,
+      "lat": 53.4574859,
+      "lon": -2.5295774,
+      "tags": {
+        "is_in:city": "Warrington",
+        "is_in:village": "Culcheth",
+        "name": "Twiss Green",
+        "place": "quarter",
+        "source": "npe"
+      }
+    },
+    {
+      "type": "node",
+      "id": 30431734,
+      "lat": 53.4447238,
+      "lon": -2.5425922,
+      "tags": {
+        "is_in:city": "Warrington",
+        "is_in:village": "Croft",
+        "name": "Little Town",
+        "place": "hamlet",
+        "source": "npe"
+      }
+    },
+    {
+      "type": "node",
+      "id": 30431736,
+      "lat": 53.4786954,
+      "lon": -2.4989301,
+      "tags": {
+        "is_in": "Wigan, Greater Manchester, England, UK",
+        "name": "Lately Common",
+        "place": "hamlet",
+        "source": "npe"
+      }
+    },
+    {
+      "type": "node",
+      "id": 30431738,
+      "lat": 53.4112302,
+      "lon": -2.5795194,
+      "tags": {
+        "is_in:city": "Warrington",
+        "name": "Orford",
+        "place": "suburb",
+        "source": "npe",
+        "wikidata": "Q7101720",
+        "wikipedia": "en:Orford, Cheshire"
+      }
+    },
+    {
+      "type": "node",
+      "id": 30431739,
+      "lat": 53.4035065,
+      "lon": -2.5622463,
+      "tags": {
+        "is_in:city": "Warrington",
+        "name": "Padgate",
+        "place": "suburb",
+        "source": "npe",
+        "wikidata": "Q7123717",
+        "wikipedia": "en:Padgate"
+      }
+    },
+    {
+      "type": "node",
+      "id": 30431741,
+      "lat": 53.4308086,
+      "lon": -2.5849543,
+      "tags": {
+        "created_by": "JOSM",
+        "is_in": "Warrington, Cheshire, England, UK",
+        "name": "Arbury",
+        "place": "hamlet",
+        "source": "npe"
+      }
+    },
+    {
+      "type": "node",
+      "id": 30431742,
+      "lat": 53.4020872,
+      "lon": -2.5384134,
+      "tags": {
+        "is_in:city": "Warrington",
+        "name": "Woolston",
+        "name:ur": "وُلسٹن",
+        "place": "suburb",
+        "source": "npe",
+        "wikidata": "Q2775129"
+      }
+    },
+    {
+      "type": "node",
+      "id": 30431743,
+      "lat": 53.3994754,
+      "lon": -2.5540768,
+      "tags": {
+        "is_in:city": "Warrington",
+        "name": "Paddington",
+        "place": "quarter",
+        "source": "npe"
+      }
+    },
+    {
+      "type": "node",
+      "id": 30431744,
+      "lat": 53.4127654,
+      "lon": -2.5559012,
+      "tags": {
+        "is_in:city": "Warrington",
+        "name": "Fearnhead",
+        "place": "suburb",
+        "source": "npe"
+      }
+    },
+    {
+      "type": "node",
+      "id": 30431745,
+      "lat": 53.4181709,
+      "lon": -2.5943587,
+      "tags": {
+        "is_in:city": "Warrington",
+        "is_in:suburb": "Orford",
+        "name": "Hulme",
+        "place": "quarter",
+        "source": "npe"
+      }
+    },
+    {
+      "type": "node",
+      "id": 30561995,
+      "lat": 53.4095964,
+      "lon": -2.6057807,
+      "tags": {
+        "is_in:city": "Warrington",
+        "is_in:suburb": "Bewsey",
+        "name": "Dallam",
+        "not:name": "Dalham",
+        "place": "quarter",
+        "source": "npe",
+        "wikidata": "Q5211204",
+        "wikipedia": "en:Dallam, Warrington"
+      }
+    },
+    {
+      "type": "node",
+      "id": 30561996,
+      "lat": 53.3904873,
+      "lon": -2.6514907,
+      "tags": {
+        "is_in:city": "Warrington",
+        "loc_name": "Sankey",
+        "name": "Great Sankey",
+        "place": "suburb",
+        "source": "npe",
+        "wikidata": "Q2597228",
+        "wikipedia": "en:Great Sankey"
+      }
+    },
+    {
+      "type": "node",
+      "id": 30561997,
+      "lat": 53.3840275,
+      "lon": -2.6253387,
+      "tags": {
+        "is_in:city": "Warrington",
+        "name": "Sankey Bridges",
+        "place": "quarter",
+        "source": "npe",
+        "wikidata": "Q7418700",
+        "wikipedia": "en:Sankey Bridges"
+      }
+    },
+    {
+      "type": "node",
+      "id": 30561998,
+      "lat": 53.3617211,
+      "lon": -2.6054005,
+      "tags": {
+        "is_in": "Walton",
+        "name": "Walton Superior",
+        "note": "name",
+        "place": "quarter",
+        "source": "npe"
+      }
+    },
+    {
+      "type": "node",
+      "id": 30561999,
+      "lat": 53.3666868,
+      "lon": -2.5982259,
+      "tags": {
+        "is_in": "Walton",
+        "name": "Walton Lea",
+        "note": "name",
+        "place": "quarter",
+        "source": "npe"
+      }
+    },
+    {
+      "type": "node",
+      "id": 30562000,
+      "lat": 53.3806947,
+      "lon": -2.5625387,
+      "tags": {
+        "is_in:city": "Warrington",
+        "name": "Latchford",
+        "place": "suburb",
+        "source": "npe",
+        "wikidata": "Q2146872"
+      }
+    },
+    {
+      "type": "node",
+      "id": 30562003,
+      "lat": 53.3657183,
+      "lon": -2.578857,
+      "tags": {
+        "is_in": "Appleton",
+        "name": "Hillcliffe",
+        "place": "quarter",
+        "source": "npe"
+      }
+    },
+    {
+      "type": "node",
+      "id": 30562004,
+      "lat": 53.422438,
+      "lon": -2.5682668,
+      "tags": {
+        "created_by": "JOSM",
+        "is_in": "Warrington, Cheshire, England, UK",
+        "name": "Houghton Green",
+        "place": "hamlet",
+        "source": "npe"
+      }
+    },
+    {
+      "type": "node",
+      "id": 30562005,
+      "lat": 53.4196457,
+      "lon": -2.5609438,
+      "tags": {
+        "is_in:city": "Warrington",
+        "is_in:parish": "Poulton-with-Fearnhead",
+        "is_in:suburb": "Fearnhead",
+        "name": "Cinnamon Brow",
+        "place": "suburb",
+        "source": "npe",
+        "wikidata": "Q5121038",
+        "wikipedia": "en:Cinnamon Brow"
+      }
+    },
+    {
+      "type": "node",
+      "id": 30562006,
+      "lat": 53.421378,
+      "lon": -2.6045552,
+      "tags": {
+        "is_in": "Warrington, Cheshire, England, UK",
+        "name": "Winwick Quay",
+        "place": "quarter",
+        "source": "npe"
+      }
+    },
+    {
+      "type": "node",
+      "id": 30578533,
+      "lat": 53.3844528,
+      "lon": -2.6663234,
+      "tags": {
+        "is_in:city": "Warrington",
+        "name": "Penketh",
+        "place": "suburb",
+        "source": "npe",
+        "wikidata": "Q4361259",
+        "wikipedia": "en:Penketh"
+      }
+    },
+    {
+      "type": "node",
+      "id": 213512701,
+      "lat": 53.4365741,
+      "lon": -2.553229,
+      "tags": {
+        "name": "Croft",
+        "place": "village",
+        "population": "2920",
+        "source:population": "wikipedia",
+        "wikidata": "Q266981",
+        "wikipedia": "en:Croft, Cheshire"
+      }
+    },
+    {
+      "type": "node",
+      "id": 216541611,
+      "lat": 53.3757332,
+      "lon": -2.5477824,
+      "tags": {
+        "name": "Grappenhall",
+        "place": "suburb",
+        "wikidata": "Q5597359",
+        "wikipedia": "en:Grappenhall"
+      }
+    },
+    {
+      "type": "node",
+      "id": 218743912,
+      "lat": 53.3510485,
+      "lon": -2.5433511,
+      "tags": {
+        "name": "Appleton Thorn",
+        "place": "village",
+        "population": "10477",
+        "source:population": "wikipedia",
+        "wikidata": "Q621563",
+        "wikipedia": "en:Appleton Thorn"
+      }
+    },
+    {
+      "type": "node",
+      "id": 243083018,
+      "lat": 53.3380796,
+      "lon": -2.6020747,
+      "tags": {
+        "created_by": "Potlatch 0.6c",
+        "name": "Hatton",
+        "place": "hamlet"
+      }
+    },
+    {
+      "type": "node",
+      "id": 243083504,
+      "lat": 53.3392898,
+      "lon": -2.5751531,
+      "tags": {
+        "name": "Stretton",
+        "place": "village",
+        "population": "1009",
+        "source:population": "wikipedia",
+        "wikidata": "Q904019",
+        "wikipedia": "en:Stretton, Warrington"
+      }
+    },
+    {
+      "type": "node",
+      "id": 292533418,
+      "lat": 53.4218666,
+      "lon": -2.522364,
+      "tags": {
+        "is_in:city": "Warrington",
+        "name": "Birchwood",
+        "place": "suburb",
+        "population": "10680",
+        "source:population": "https://www.warrington.gov.uk/sites/default/files/2019-09/birchwood-ward-profile-2015.pdf",
+        "wikidata": "Q821731",
+        "wikipedia": "en:Birchwood"
+      }
+    },
+    {
+      "type": "node",
+      "id": 320700597,
+      "lat": 53.411683,
+      "lon": -2.6186065,
+      "tags": {
+        "is_in:city": "Warrington",
+        "is_in:suburb": "Westbrook",
+        "name": "Callands",
+        "place": "suburb",
+        "wikidata": "Q123111329"
+      }
+    },
+    {
+      "type": "node",
+      "id": 320701043,
+      "lat": 53.4081793,
+      "lon": -2.6369637,
+      "tags": {
+        "is_in:city": "Warrington",
+        "is_in:parish": "Burtonwood and Westbrook",
+        "name": "Westbrook",
+        "place": "suburb",
+        "wikidata": "Q7987158"
+      }
+    },
+    {
+      "type": "node",
+      "id": 320701318,
+      "lat": 53.4179821,
+      "lon": -2.6217365,
+      "tags": {
+        "is_in:city": "Warrington",
+        "name": "Gemini",
+        "place": "suburb"
+      }
+    },
+    {
+      "type": "node",
+      "id": 339074950,
+      "lat": 53.391422,
+      "lon": -2.6317563,
+      "tags": {
+        "is_in:city": "Warrington",
+        "is_in:suburb": "Great Sankey",
+        "name": "Hood Manor",
+        "place": "quarter"
+      }
+    },
+    {
+      "type": "node",
+      "id": 339087098,
+      "lat": 53.4005308,
+      "lon": -2.6072733,
+      "tags": {
+        "is_in:city": "Warrington",
+        "name": "Bewsey",
+        "place": "suburb",
+        "wikidata": "Q2712993",
+        "wikipedia": "en:Bewsey"
+      }
+    },
+    {
+      "type": "node",
+      "id": 339093819,
+      "lat": 53.4130012,
+      "lon": -2.6413712,
+      "tags": {
+        "is_in": "Westbrook",
+        "name": "Kingswood",
+        "place": "quarter"
+      }
+    },
+    {
+      "type": "node",
+      "id": 343066263,
+      "lat": 53.4291627,
+      "lon": -2.5020488,
+      "tags": {
+        "is_in:city": "Warrington",
+        "is_in:suburb": "Birchwood",
+        "name": "Gorse Covert",
+        "place": "quarter",
+        "population": "2790",
+        "source:population": "wikipedia"
+      }
+    },
+    {
+      "type": "node",
+      "id": 343069203,
+      "lat": 53.4197903,
+      "lon": -2.5183706,
+      "tags": {
+        "is_in:city": "Warrington",
+        "is_in:suburb": "Birchwood",
+        "name": "Oakwood",
+        "place": "quarter",
+        "population": "4381",
+        "source:population": "wikipedia"
+      }
+    },
+    {
+      "type": "node",
+      "id": 343853179,
+      "lat": 53.3988623,
+      "lon": -2.6378436,
+      "tags": {
+        "is_in:city": "Warrington",
+        "is_in:suburb": "Great Sankey",
+        "name": "Chapelford",
+        "place": "quarter"
+      }
+    },
+    {
+      "type": "node",
+      "id": 343853900,
+      "lat": 53.3997123,
+      "lon": -2.6542556,
+      "tags": {
+        "is_in:city": "Warrington",
+        "is_in:suburb": "Great Sankey",
+        "name": "Whittle Hall",
+        "place": "quarter",
+        "wikidata": "Q7996921",
+        "wikipedia": "en:Whittle Hall"
+      }
+    },
+    {
+      "type": "node",
+      "id": 429177285,
+      "lat": 53.4236138,
+      "lon": -2.5354369,
+      "tags": {
+        "is_in:city": "Warrington",
+        "is_in:suburb": "Birchwood",
+        "name": "Locking Stumps",
+        "place": "quarter"
+      }
+    },
+    {
+      "type": "node",
+      "id": 616722789,
+      "lat": 53.3571135,
+      "lon": -2.5563325,
+      "tags": {
+        "name": "Wright's Green",
+        "place": "neighbourhood"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1805157220,
+      "lat": 53.4309832,
+      "lon": -2.5966935,
+      "tags": {
+        "name": "Winwick",
+        "place": "village",
+        "population": "4366",
+        "population:date": "2001",
+        "source:population": "wikipedia",
+        "wikidata": "Q821720",
+        "wikipedia": "en:Winwick, Cheshire"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2640309314,
+      "lat": 53.4101687,
+      "lon": -2.5479829,
+      "tags": {
+        "is_in:city": "Warrington",
+        "is_in:parish": "Poulton-with-Fearnhead",
+        "is_in:suburb": "Padgate",
+        "name": "Longbarn",
+        "place": "quarter"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2640309998,
+      "lat": 53.4109616,
+      "lon": -2.5930834,
+      "tags": {
+        "is_in:city": "Warrington",
+        "is_in:suburb": "Orford",
+        "name": "Longford",
+        "place": "quarter",
+        "wikidata": "Q123130214",
+        "wikipedia": "en:Longford, Warrington"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2640309999,
+      "lat": 53.4108516,
+      "lon": -2.5668091,
+      "tags": {
+        "name": "Blackbrook",
+        "place": "quarter"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3454421337,
+      "lat": 53.3768632,
+      "lon": -2.5861632,
+      "tags": {
+        "name": "Wilderspool",
+        "place": "quarter",
+        "wikidata": "Q8001192"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3454421338,
+      "lat": 53.3857708,
+      "lon": -2.5810672,
+      "tags": {
+        "name": "Howley",
+        "place": "suburb"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3454421339,
+      "lat": 53.3992192,
+      "lon": -2.6235534,
+      "tags": {
+        "is_in": "Great Sankey",
+        "name": "Old Hall",
+        "place": "quarter",
+        "wikidata": "Q124095364"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4276198707,
+      "lat": 53.3923386,
+      "lon": -2.4491012,
+      "tags": {
+        "name": "Heatley",
+        "place": "neighbourhood"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4276198709,
+      "lat": 53.3700491,
+      "lon": -2.4438238,
+      "tags": {
+        "is_in": "Lymm",
+        "name": "Broomedge",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4276198710,
+      "lat": 53.38353,
+      "lon": -2.4930354,
+      "tags": {
+        "is_in": "Lymm",
+        "name": "Statham",
+        "place": "quarter"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4276198711,
+      "lat": 53.3655256,
+      "lon": -2.4613378,
+      "tags": {
+        "name": "Deansgreen",
+        "place": "suburb"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4524637377,
+      "lat": 53.3772096,
+      "lon": -2.6909751,
+      "tags": {
+        "is_in:city": "Warrington",
+        "is_in:suburb": "Penketh",
+        "name": "Cuerdley Cross",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5011223341,
+      "lat": 53.3894065,
+      "lon": -2.5757123,
+      "tags": {
+        "name": "Howley Quay",
+        "place": "quarter"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5011223342,
+      "lat": 53.3949652,
+      "lon": -2.580311,
+      "tags": {
+        "name": "Fairfield",
+        "place": "quarter"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5870788700,
+      "lat": 53.3874379,
+      "lon": -2.4590071,
+      "tags": {
+        "name": "Oughtrington",
+        "place": "quarter"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5879144087,
+      "lat": 53.3815776,
+      "lon": -2.6730801,
+      "tags": {
+        "name": "Doe Green",
+        "place": "neighbourhood"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6997464871,
+      "lat": 53.3678836,
+      "lon": -2.5733716,
+      "tags": {
+        "name": "Cobbs Estate",
+        "place": "quarter"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7003136059,
+      "lat": 53.3706955,
+      "lon": -2.5964413,
+      "tags": {
+        "is_in": "Walton",
+        "name": "Lower Walton",
+        "place": "quarter"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7003136060,
+      "lat": 53.358031,
+      "lon": -2.5681857,
+      "tags": {
+        "name": "Dudlow's Green",
+        "place": "quarter"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7003136061,
+      "lat": 53.3815751,
+      "lon": -2.5271157,
+      "tags": {
+        "name": "Thelwall",
+        "place": "suburb",
+        "wikidata": "Q771868",
+        "wikipedia": "en:Thelwall"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7004706759,
+      "lat": 53.3725455,
+      "lon": -2.5744227,
+      "tags": {
+        "name": "Stockton Heath",
+        "place": "suburb",
+        "wikidata": "Q821890",
+        "wikipedia": "en:Stockton Heath"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7011609024,
+      "lat": 53.3613282,
+      "lon": -2.6012226,
+      "tags": {
+        "is_in": "Walton",
+        "name": "Higher Walton",
+        "place": "quarter",
+        "source": "OS_OpenData_StreetView"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7289610792,
+      "lat": 53.3877693,
+      "lon": -2.5608015,
+      "tags": {
+        "name": "Westy",
+        "place": "quarter",
+        "source": "OS_OpenData_StreetView",
+        "wikidata": "Q2126977"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8755881995,
+      "lat": 53.3977275,
+      "lon": -2.5172062,
+      "tags": {
+        "is_in": "Woolston",
+        "name": "Martinscroft",
+        "place": "quarter",
+        "source": "npe"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8762953185,
+      "lat": 53.431431,
+      "lon": -2.527176,
+      "tags": {
+        "is_in:city": "Warrington",
+        "is_in:suburb": "Birchwood",
+        "name": "Risley",
+        "place": "quarter",
+        "wikidata": "Q7336314",
+        "wikipedia": "en:Risley, Warrington"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8762971478,
+      "lat": 53.3978453,
+      "lon": -2.5631733,
+      "tags": {
+        "is_in:city": "Warrington",
+        "name": "Bruche",
+        "place": "quarter",
+        "source": "npe",
+        "wikidata": "Q4978566"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8762997681,
+      "lat": 53.4277449,
+      "lon": -2.6018366,
+      "tags": {
+        "is_in:city": "Warrington",
+        "is_in:village": "Winwick",
+        "name": "Winwick Park",
+        "place": "neighbourhood",
+        "source": "npe"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8762997682,
+      "lat": 53.4111448,
+      "lon": -2.6618583,
+      "tags": {
+        "is_in": "Warrington, Cheshire, England, UK",
+        "name": "Omega",
+        "place": "quarter",
+        "source": "npe"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8764497037,
+      "lat": 53.3635025,
+      "lon": -2.5573628,
+      "tags": {
+        "name": "Grappenhall Heys",
+        "place": "quarter"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8764497038,
+      "lat": 53.3556014,
+      "lon": -2.5774257,
+      "tags": {
+        "is_in:city": "Warrington",
+        "name": "Appleton",
+        "place": "suburb",
+        "population": "10265",
+        "source:population": "wikipedia",
+        "wikidata": "Q4781380",
+        "wikipedia": "en:Appleton, Warrington"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8765406542,
+      "lat": 53.3830214,
+      "lon": -2.5486104,
+      "tags": {
+        "is_in": "Warrington, Cheshire, England, UK",
+        "name": "Edgewater Park",
+        "place": "quarter",
+        "source": "npe"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8765406543,
+      "lat": 53.3823286,
+      "lon": -2.5971127,
+      "tags": {
+        "is_in": "Warrington, Cheshire, England, UK",
+        "name": "Centre Park",
+        "place": "quarter",
+        "source": "npe"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8914041620,
+      "lat": 53.4415276,
+      "lon": -2.5953331,
+      "tags": {
+        "name": "Hermitage Green",
+        "place": "hamlet"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8920399912,
+      "lat": 53.3929186,
+      "lon": -2.6122979,
+      "tags": {
+        "is_in:city": "Warrington",
+        "is_in:suburb": "Bewsey",
+        "name": "Whitecross",
+        "place": "quarter",
+        "wikidata": "Q123117705"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8920399913,
+      "lat": 53.3993787,
+      "lon": -2.6605496,
+      "tags": {
+        "name": "Barrow Hall",
+        "place": "neighbourhood"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8920399914,
+      "lat": 53.3680727,
+      "lon": -2.5973928,
+      "tags": {
+        "is_in": "Warrington",
+        "name": "Walton",
+        "place": "suburb"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8926478075,
+      "lat": 53.3299448,
+      "lon": -2.5683494,
+      "tags": {
+        "is_in": "Stretton",
+        "name": "Lower Stretton",
+        "place": "quarter"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9021621942,
+      "lat": 53.382017,
+      "lon": -2.6244817,
+      "tags": {
+        "name": "Gatewarth",
+        "place": "neighbourhood"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9030091528,
+      "lat": 53.4072918,
+      "lon": -2.6243944,
+      "tags": {
+        "name": "Ladywood",
+        "place": "neighbourhood"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9163207727,
+      "lat": 53.4577874,
+      "lon": -2.4985101,
+      "tags": {
+        "name": "Fowley Common",
+        "place": "village",
+        "wikidata": "Q118522552"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9273448956,
+      "lat": 53.3873786,
+      "lon": -2.6065936,
+      "tags": {
+        "is_in:city": "Warrington",
+        "name": "Bank Quay",
+        "place": "quarter"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9569338992,
+      "lat": 53.3560221,
+      "lon": -2.586771,
+      "tags": {
+        "name": "Appleton Park",
+        "place": "quarter"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9583908624,
+      "lat": 53.450146,
+      "lon": -2.5127097,
+      "tags": {
+        "is_in:city": "Warrington",
+        "is_in:village": "Culcheth",
+        "name": "Newchurch",
+        "place": "quarter",
+        "source": "npe"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9586009614,
+      "lat": 53.4071278,
+      "lon": -2.5308374,
+      "tags": {
+        "name": "Woolston Grange",
+        "place": "quarter"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9601747390,
+      "lat": 53.3865846,
+      "lon": -2.6379493,
+      "tags": {
+        "alt_name": "Penketh Lane Ends",
+        "name": "Lane Ends",
+        "place": "neighbourhood"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9601756102,
+      "lat": 53.3873116,
+      "lon": -2.6542769,
+      "tags": {
+        "name": "Greystone Heath",
+        "place": "quarter"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9627142908,
+      "lat": 53.4385278,
+      "lon": -2.6615405,
+      "tags": {
+        "name": "Wilhead",
+        "place": "hamlet"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10314638024,
+      "lat": 53.4653809,
+      "lon": -2.5382764,
+      "tags": {
+        "name": "Diggle Green",
+        "place": "hamlet",
+        "source": "survey;local knowledge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11167494564,
+      "lat": 53.3752342,
+      "lon": -2.5209635,
+      "tags": {
+        "name": "Highfields Farm",
+        "place": "quarter"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 1433106,
+      "center": {
+        "lat": 53.3708844,
+        "lon": -2.5737594
+      },
+      "tags": {
+        "admin_level": "10",
+        "boundary": "administrative",
+        "designation": "civil_parish",
+        "is_in": "Warrington, Cheshire, England, UK",
+        "name": "Stockton Heath",
+        "place": "village",
+        "ref:gss": "E04000332",
+        "type": "boundary",
+        "wikidata": "Q821890"
+      }
+    }
+  ]
+}

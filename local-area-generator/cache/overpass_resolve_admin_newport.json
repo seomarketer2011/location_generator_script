@@ -1,0 +1,61 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.61.8 b1080abd",
+  "osm3s": {
+    "timestamp_osm_base": "2026-01-15T18:15:15Z",
+    "timestamp_areas_base": "2026-01-15T18:15:15Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+    {
+      "type": "relation",
+      "id": 335184,
+      "tags": {
+        "ISO3166-2": "GB-NWP",
+        "admin_level": "6",
+        "border_type": "city",
+        "borough": "yes",
+        "boundary": "administrative",
+        "council_name": "Newport City Council",
+        "council_name:cy": "Cyngor Dinas Casnewydd",
+        "council_name:en": "Newport City Council",
+        "council_style": "city",
+        "designation": "principal_area",
+        "is_in:country": "United Kingdom",
+        "is_in:country_code": "GB",
+        "is_in:historic_county": "Monmouthshire",
+        "name": "Newport",
+        "name:ar": "نيوبورت",
+        "name:az": "Nyuport",
+        "name:azb": "نیوپورت",
+        "name:be": "Ньюпарт",
+        "name:be-tarask": "Ньюпарт",
+        "name:bg": "Нюпорт",
+        "name:br": "Casnewydd",
+        "name:cy": "Casnewydd",
+        "name:el": "Νηούπορτ",
+        "name:ga": "Casnewydd",
+        "name:gd": "Casnewydd",
+        "name:hy": "Նյուպորտ",
+        "name:ks": "نیوپورٹ",
+        "name:ru": "Ньюпорт",
+        "name:sr": "Њупорт",
+        "name:uk": "Ньюпорт",
+        "name:ur": "نیوپورٹ",
+        "official_name": "City of Newport",
+        "official_name:ar": "مدينة نيوبورت",
+        "official_name:ur": "نیوپورٹ شہر",
+        "ons_code": "00PR",
+        "population": "159,600",
+        "population:date": "2021-03-21",
+        "ref:gss": "W06000022",
+        "source": "npe",
+        "source:ons_code": "OS_OpenData_CodePoint Codelist.txt",
+        "source:population": "https://www.nomisweb.co.uk",
+        "type": "boundary",
+        "wikidata": "Q5283458",
+        "wikipedia": "en:Newport, Wales"
+      }
+    }
+  ]
+}

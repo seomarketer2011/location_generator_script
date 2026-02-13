@@ -1,0 +1,31 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.9 e847dec3",
+  "osm3s": {
+    "timestamp_osm_base": "2026-01-22T18:49:43Z",
+    "timestamp_areas_base": "2026-01-22T10:07:12Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+    {
+      "type": "relation",
+      "id": 147278,
+      "tags": {
+        "ISO3166-2": "GB-WRT",
+        "admin_level": "6",
+        "borough": "yes",
+        "boundary": "administrative",
+        "council_name": "Warrington Borough Council",
+        "council_style": "borough",
+        "designation": "unitary_authority",
+        "name": "Warrington",
+        "ons_code": "00EU",
+        "ref:gss": "E06000007",
+        "source:ons_code": "OS_OpenData_CodePoint Codelist.txt",
+        "type": "boundary",
+        "wikidata": "Q894095",
+        "wikipedia": "en:Warrington"
+      }
+    }
+  ]
+}

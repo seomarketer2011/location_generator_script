@@ -1,0 +1,771 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.9 e847dec3",
+  "osm3s": {
+    "timestamp_osm_base": "2026-01-22T18:51:52Z",
+    "timestamp_areas_base": "2026-01-22T10:07:12Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+    {
+      "type": "node",
+      "id": 29369444,
+      "lat": 53.497347,
+      "lon": -2.6694418,
+      "tags": {
+        "name": "Downall Green",
+        "place": "village",
+        "source": "npe"
+      }
+    },
+    {
+      "type": "node",
+      "id": 29369445,
+      "lat": 53.4972785,
+      "lon": -2.6809003,
+      "tags": {
+        "name": "Leyland Green",
+        "place": "hamlet",
+        "source": "npe"
+      }
+    },
+    {
+      "type": "node",
+      "id": 29369456,
+      "lat": 53.5110743,
+      "lon": -2.709167,
+      "tags": {
+        "name": "Longshaw",
+        "place": "suburb"
+      }
+    },
+    {
+      "type": "node",
+      "id": 29369457,
+      "lat": 53.4671946,
+      "lon": -2.6618064,
+      "tags": {
+        "name": "Haydock",
+        "place": "village",
+        "source": "npe",
+        "wikidata": "Q3783795",
+        "wikipedia": "en:Haydock"
+      }
+    },
+    {
+      "type": "node",
+      "id": 29369458,
+      "lat": 53.4676165,
+      "lon": -2.6916573,
+      "tags": {
+        "name": "Blackbrook",
+        "place": "village",
+        "source": "npe"
+      }
+    },
+    {
+      "type": "node",
+      "id": 29369459,
+      "lat": 53.4932341,
+      "lon": -2.67672,
+      "tags": {
+        "name": "Garswood",
+        "place": "village",
+        "source": "npe"
+      }
+    },
+    {
+      "type": "node",
+      "id": 29369463,
+      "lat": 53.454706,
+      "lon": -2.7010299,
+      "tags": {
+        "created_by": "JOSM",
+        "name": "Broad Oak",
+        "place": "suburb"
+      }
+    },
+    {
+      "type": "node",
+      "id": 29369464,
+      "lat": 53.4433161,
+      "lon": -2.7234366,
+      "tags": {
+        "name": "Peasley Cross",
+        "place": "suburb",
+        "source": "npe"
+      }
+    },
+    {
+      "type": "node",
+      "id": 29369465,
+      "lat": 53.4184551,
+      "lon": -2.7145896,
+      "tags": {
+        "name": "Clock Face",
+        "place": "suburb",
+        "source": "npe"
+      }
+    },
+    {
+      "type": "node",
+      "id": 29369467,
+      "lat": 53.4229237,
+      "lon": -2.7403292,
+      "tags": {
+        "name": "Lea Green",
+        "place": "suburb",
+        "source": "npe"
+      }
+    },
+    {
+      "type": "node",
+      "id": 29369468,
+      "lat": 53.4254852,
+      "lon": -2.7108606,
+      "tags": {
+        "name": "Sutton Leach",
+        "place": "suburb",
+        "source": "npe"
+      }
+    },
+    {
+      "type": "node",
+      "id": 29369469,
+      "lat": 53.4465637,
+      "lon": -2.7111181,
+      "tags": {
+        "name": "Parr Stocks",
+        "place": "suburb",
+        "source": "npe"
+      }
+    },
+    {
+      "type": "node",
+      "id": 29369470,
+      "lat": 53.4384555,
+      "lon": -2.7575914,
+      "tags": {
+        "name": "Thatto Heath",
+        "place": "suburb",
+        "source": "npe"
+      }
+    },
+    {
+      "type": "node",
+      "id": 29369471,
+      "lat": 53.4280505,
+      "lon": -2.7487987,
+      "tags": {
+        "name": "Sutton Heath",
+        "place": "suburb",
+        "source": "npe"
+      }
+    },
+    {
+      "type": "node",
+      "id": 29369474,
+      "lat": 53.3985671,
+      "lon": -2.7028543,
+      "tags": {
+        "name": "Bold Heath",
+        "place": "village",
+        "source": "npe",
+        "wikidata": "Q4939054",
+        "wikipedia": "en:Bold Heath"
+      }
+    },
+    {
+      "type": "node",
+      "id": 29369475,
+      "lat": 53.4456678,
+      "lon": -2.6839053,
+      "tags": {
+        "name": "Derbyshire Hill",
+        "place": "suburb",
+        "source": "npe"
+      }
+    },
+    {
+      "type": "node",
+      "id": 29369476,
+      "lat": 53.4240453,
+      "lon": -2.7256181,
+      "tags": {
+        "name": "Marshall's Cross",
+        "place": "suburb",
+        "source": "npe"
+      }
+    },
+    {
+      "type": "node",
+      "id": 29974965,
+      "lat": 53.5020825,
+      "lon": -2.7878773,
+      "tags": {
+        "name": "Rainford",
+        "place": "village",
+        "source": "npe"
+      }
+    },
+    {
+      "type": "node",
+      "id": 30578515,
+      "lat": 53.4134383,
+      "lon": -2.760785,
+      "tags": {
+        "name": "Rainhill",
+        "place": "suburb",
+        "source": "npe",
+        "wikidata": "Q2429969",
+        "wikipedia": "en:Rainhill"
+      }
+    },
+    {
+      "type": "node",
+      "id": 30578554,
+      "lat": 53.4336652,
+      "lon": -2.7910666,
+      "tags": {
+        "name": "Eccleston Lane Ends",
+        "place": "suburb",
+        "source": "npe"
+      }
+    },
+    {
+      "type": "node",
+      "id": 30578572,
+      "lat": 53.4554592,
+      "lon": -2.7790276,
+      "tags": {
+        "name": "Eccleston",
+        "place": "suburb",
+        "source": "npe"
+      }
+    },
+    {
+      "type": "node",
+      "id": 30578639,
+      "lat": 53.517745,
+      "lon": -2.8047234,
+      "tags": {
+        "name": "Park Hill",
+        "place": "hamlet",
+        "source": "npe"
+      }
+    },
+    {
+      "type": "node",
+      "id": 30578653,
+      "lat": 53.516018,
+      "lon": -2.7879731,
+      "tags": {
+        "name": "Rainford Junction",
+        "place": "hamlet",
+        "source": "npe"
+      }
+    },
+    {
+      "type": "node",
+      "id": 30581532,
+      "lat": 53.4303648,
+      "lon": -2.7626013,
+      "tags": {
+        "name": "Brown Edge",
+        "place": "suburb",
+        "source": "npe"
+      }
+    },
+    {
+      "type": "node",
+      "id": 30581535,
+      "lat": 53.4629242,
+      "lon": -2.7560353,
+      "tags": {
+        "name": "Denton's Green",
+        "place": "suburb",
+        "source": "npe"
+      }
+    },
+    {
+      "type": "node",
+      "id": 30581547,
+      "lat": 53.4467474,
+      "lon": -2.7577054,
+      "tags": {
+        "name": "West Park",
+        "place": "suburb",
+        "source": "npe"
+      }
+    },
+    {
+      "type": "node",
+      "id": 30581550,
+      "lat": 53.4599285,
+      "lon": -2.7470281,
+      "tags": {
+        "name": "Cowley Hill",
+        "place": "suburb",
+        "source": "npe"
+      }
+    },
+    {
+      "type": "node",
+      "id": 30581552,
+      "lat": 53.4684832,
+      "lon": -2.7225715,
+      "tags": {
+        "name": "Haresfinch",
+        "place": "suburb",
+        "source": "npe"
+      }
+    },
+    {
+      "type": "node",
+      "id": 30581566,
+      "lat": 53.4625926,
+      "lon": -2.7303196,
+      "tags": {
+        "name": "Gerard's Bridge",
+        "place": "suburb",
+        "source": "npe"
+      }
+    },
+    {
+      "type": "node",
+      "id": 30581669,
+      "lat": 53.492118,
+      "lon": -2.7492305,
+      "tags": {
+        "name": "Crank",
+        "place": "hamlet",
+        "source": "npe"
+      }
+    },
+    {
+      "type": "node",
+      "id": 30581670,
+      "lat": 53.5046778,
+      "lon": -2.7454969,
+      "tags": {
+        "name": "King's Moss",
+        "place": "hamlet",
+        "source": "npe"
+      }
+    },
+    {
+      "type": "node",
+      "id": 30581671,
+      "lat": 53.4681177,
+      "lon": -2.7659515,
+      "tags": {
+        "name": "Windle",
+        "place": "suburb",
+        "source": "npe"
+      }
+    },
+    {
+      "type": "node",
+      "id": 30581672,
+      "lat": 53.4873465,
+      "lon": -2.7116046,
+      "tags": {
+        "name": "Chadwick Green",
+        "place": "hamlet",
+        "source": "npe"
+      }
+    },
+    {
+      "type": "node",
+      "id": 30581673,
+      "lat": 53.4974486,
+      "lon": -2.7073893,
+      "tags": {
+        "name": "Billinge",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 30581675,
+      "lat": 53.4795442,
+      "lon": -2.7348427,
+      "tags": {
+        "name": "Moss Bank",
+        "place": "village",
+        "source": "npe"
+      }
+    },
+    {
+      "type": "node",
+      "id": 30581676,
+      "lat": 53.4777079,
+      "lon": -2.7210701,
+      "tags": {
+        "name": "Carr Mill",
+        "place": "village",
+        "source": "npe",
+        "wikidata": "Q124322399"
+      }
+    },
+    {
+      "type": "node",
+      "id": 32449368,
+      "lat": 53.4710783,
+      "lon": -2.6551367,
+      "tags": {
+        "name": "New Boston",
+        "place": "hamlet",
+        "source": "npe"
+      }
+    },
+    {
+      "type": "node",
+      "id": 32449369,
+      "lat": 53.4731469,
+      "lon": -2.6441853,
+      "tags": {
+        "created_by": "JOSM",
+        "is_in": "Haydock, St Helens, Merseyside, England, UK",
+        "name": "Old Boston",
+        "place": "hamlet",
+        "source": "npe"
+      }
+    },
+    {
+      "type": "node",
+      "id": 32449370,
+      "lat": 53.4542253,
+      "lon": -2.6551975,
+      "tags": {
+        "name": "Newton Common",
+        "place": "suburb",
+        "source": "npe"
+      }
+    },
+    {
+      "type": "node",
+      "id": 32449388,
+      "lat": 53.484724,
+      "lon": -2.6730905,
+      "tags": {
+        "name": "Tithe Barn Hillock",
+        "place": "hamlet",
+        "source": "npe"
+      }
+    },
+    {
+      "type": "node",
+      "id": 276785502,
+      "lat": 53.4122694,
+      "lon": -2.7303875,
+      "tags": {
+        "name": "Sutton Manor",
+        "place": "suburb",
+        "source": "npe"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2121950839,
+      "lat": 53.4328605,
+      "lon": -2.7588178,
+      "tags": {
+        "name": "Nutgrove",
+        "place": "suburb"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3448681476,
+      "lat": 53.4036524,
+      "lon": -2.7464328,
+      "tags": {
+        "name": "Rainhill Stoops",
+        "place": "quarter"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3448681477,
+      "lat": 53.4213329,
+      "lon": -2.7789124,
+      "tags": {
+        "name": "Holt",
+        "place": "suburb"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3448681478,
+      "lat": 53.4534738,
+      "lon": -2.7207945,
+      "tags": {
+        "name": "Fingerpost",
+        "place": "suburb"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3448681479,
+      "lat": 53.4558339,
+      "lon": -2.7197678,
+      "tags": {
+        "name": "Pocket Nook",
+        "place": "suburb"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3453888618,
+      "lat": 53.4335147,
+      "lon": -2.7812746,
+      "tags": {
+        "name": "Eccleston Park",
+        "place": "suburb"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3453888619,
+      "lat": 53.4342909,
+      "lon": -2.7754212,
+      "tags": {
+        "name": "Portico",
+        "place": "suburb"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3453888620,
+      "lat": 53.4385593,
+      "lon": -2.7766708,
+      "tags": {
+        "name": "Eccleston Hill",
+        "place": "suburb"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3465154388,
+      "lat": 53.4668343,
+      "lon": -2.714821,
+      "tags": {
+        "name": "Laffak",
+        "place": "suburb"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3465154389,
+      "lat": 53.4516377,
+      "lon": -2.7125548,
+      "tags": {
+        "name": "Parr",
+        "place": "suburb"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3465154390,
+      "lat": 53.4512507,
+      "lon": -2.787958,
+      "tags": {
+        "name": "Gillar's Green",
+        "place": "suburb"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3465154391,
+      "lat": 53.4478195,
+      "lon": -2.7484914,
+      "tags": {
+        "name": "Green Bank",
+        "place": "suburb"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3465154392,
+      "lat": 53.4448227,
+      "lon": -2.7428259,
+      "tags": {
+        "name": "Ravenhead",
+        "place": "suburb"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3465154893,
+      "lat": 53.4163312,
+      "lon": -2.7434789,
+      "tags": {
+        "name": "Micklehead Green",
+        "place": "suburb"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3465154895,
+      "lat": 53.4397094,
+      "lon": -2.7062401,
+      "tags": {
+        "name": "Worsley Brow",
+        "place": "suburb"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3465154896,
+      "lat": 53.4403729,
+      "lon": -2.7007282,
+      "tags": {
+        "name": "Moss Nook",
+        "place": "suburb"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3465175937,
+      "lat": 53.4397894,
+      "lon": -2.7306306,
+      "tags": {
+        "name": "Sherdley",
+        "place": "suburb"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3465189393,
+      "lat": 53.4416314,
+      "lon": -2.7696521,
+      "tags": {
+        "name": "Grange Park",
+        "place": "suburb"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3465192773,
+      "lat": 53.4538249,
+      "lon": -2.7517477,
+      "tags": {
+        "name": "Newtown",
+        "place": "suburb"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4511053640,
+      "lat": 53.4231937,
+      "lon": -2.6902138,
+      "tags": {
+        "name": "Abbotsfield",
+        "place": "suburb"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4511053641,
+      "lat": 53.4276049,
+      "lon": -2.6845489,
+      "tags": {
+        "name": "Bold",
+        "place": "suburb"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5879141384,
+      "lat": 53.4060236,
+      "lon": -2.7242416,
+      "tags": {
+        "name": "Union Bank",
+        "place": "suburb"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5879144085,
+      "lat": 53.4069383,
+      "lon": -2.7059095,
+      "tags": {
+        "name": "Crow's Nest",
+        "place": "hamlet"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8538163896,
+      "lat": 53.4486033,
+      "lon": -2.629082,
+      "tags": {
+        "name": "Wargrave",
+        "place": "suburb",
+        "wikidata": "Q24667571"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8755875284,
+      "lat": 53.4394819,
+      "lon": -2.625041,
+      "tags": {
+        "name": "Vulcan Village",
+        "place": "suburb"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9129997387,
+      "lat": 53.4747604,
+      "lon": -2.6833276,
+      "tags": {
+        "name": "Pewfall",
+        "place": "quarter"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9610093533,
+      "lat": 53.444559,
+      "lon": -2.6110555,
+      "tags": {
+        "name": "Red Bank",
+        "place": "quarter"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11099783694,
+      "lat": 53.4339472,
+      "lon": -2.6883104,
+      "tags": {
+        "name": "New Bold",
+        "place": "suburb"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11201738383,
+      "lat": 53.436742,
+      "lon": -2.7164385,
+      "tags": {
+        "name": "Sutton",
+        "place": "suburb"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11461034070,
+      "lat": 53.4846843,
+      "lon": -2.6740083,
+      "tags": {
+        "name": "Tithebarn Hillock",
+        "place": "neighbourhood",
+        "source": "local knowledge"
+      }
+    }
+  ]
+}

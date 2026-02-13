@@ -1,0 +1,292 @@
+town,county_or_region,country
+bermondsey,se1,United Kingdom
+woodside,se25,United Kingdom
+abbey wood,se2,United Kingdom
+kidbrooke,se3,United Kingdom
+brockley,se4,United Kingdom
+kennington,se5,United Kingdom
+sutton,sm2,United Kingdom
+west brompton,sw10,United Kingdom
+balham,sw12,United Kingdom
+mortlake,sw14,United Kingdom
+southfields,sw18,United Kingdom
+hyde park corner,sw1x,United Kingdom
+stockwell,sw4,United Kingdom
+hampton,tw12,United Kingdom
+east bedfont,tw14,United Kingdom
+whitton,tw2,United Kingdom
+osterley,tw7,United Kingdom
+dormers wells,ub1,United Kingdom
+cranford,ub3,United Kingdom
+yeading,ub5,United Kingdom
+yiewsley,ub7,United Kingdom
+white city,w12,United Kingdom
+marylebone,w1g,United Kingdom
+bedford park,w4,United Kingdom
+plaistow,br1,United Kingdom
+southend,br1,United Kingdom
+hayes,br2,United Kingdom
+sidcup,da15,United Kingdom
+leytonstone,e11,United Kingdom
+walthamstow,e17,United Kingdom
+chingford,e4,United Kingdom
+east ham,e6,United Kingdom
+wembley,ha9,United Kingdom
+west hampstead,nw6,United Kingdom
+battersea,sw11,United Kingdom
+putney,sw15,United Kingdom
+chelsea,sw3,United Kingdom
+clapham,sw4,United Kingdom
+west kensington,w14,United Kingdom
+paddington,w2,United Kingdom
+bromley,br2,United Kingdom
+beckenham,br3,United Kingdom
+orpington,br6,United Kingdom
+beddington,cr0,United Kingdom
+mitcham,cr4,United Kingdom
+coulsdon,cr5,United Kingdom
+thornton heath,cr7,United Kingdom
+croydon,cr9,United Kingdom
+ruxley,da14,United Kingdom
+welling,da16,United Kingdom
+bexley,da5,United Kingdom
+bexleyheath,da7,United Kingdom
+erith,da8,United Kingdom
+leyton,e10,United Kingdom
+plaistow,e13,United Kingdom
+canary wharf,e14,United Kingdom
+cubitt town,e14,United Kingdom
+isle of dogs,e14,United Kingdom
+millwall,e14,United Kingdom
+tower hamlets,e14,United Kingdom
+stratford,e15,United Kingdom
+canning town,e16,United Kingdom
+north woolwich,e16,United Kingdom
+bethnal green,e2,United Kingdom
+bow,e3,United Kingdom
+cyprus,e6,United Kingdom
+newham,e6,United Kingdom
+forest gate,e7,United Kingdom
+enfield town,en1,United Kingdom
+enfield wash,en3,United Kingdom
+barnet,en5,United Kingdom
+harrow,ha1,United Kingdom
+kenton,ha3,United Kingdom
+ruislip,ha4,United Kingdom
+pinner,ha5,United Kingdom
+pinner green,ha5,United Kingdom
+northwood,ha6,United Kingdom
+stanmore,ha7,United Kingdom
+edgware,ha8,United Kingdom
+barking,ig11,United Kingdom
+ilford,ig1,United Kingdom
+woodford,ig8,United Kingdom
+kingston upon thames,kt1,United Kingdom
+new malden,kt3,United Kingdom
+surbiton,kt6,United Kingdom
+north finchley,n12,United Kingdom
+harringay,n15,United Kingdom
+tottenham,n15,United Kingdom
+craven walk,n16,United Kingdom
+stamford hill,n16,United Kingdom
+tower gardens,n17,United Kingdom
+archway,n19,United Kingdom
+islington,n1,United Kingdom
+wood green,n22,United Kingdom
+finchley,n3,United Kingdom
+highbury,n5,United Kingdom
+edmonton,n9,United Kingdom
+brent park,nw10,United Kingdom
+park royal,nw10,United Kingdom
+willesden green,nw10,United Kingdom
+camden town,nw1,United Kingdom
+chalk farm,nw1,United Kingdom
+cricklewood,nw2,United Kingdom
+willesden,nw2,United Kingdom
+brent cross,nw4,United Kingdom
+hendon,nw4,United Kingdom
+kilburn,nw6,United Kingdom
+south hampstead,nw6,United Kingdom
+kingsbury,nw9,United Kingdom
+dagenham,rm10,United Kingdom
+hornchurch,rm11,United Kingdom
+upminster,rm14,United Kingdom
+upminster bridge,rm14,United Kingdom
+romford,rm1,United Kingdom
+havering-atte-bower,rm4,United Kingdom
+chadwell heath,rm6,United Kingdom
+becontree heath,rm8,United Kingdom
+becontree,rm9,United Kingdom
+greenwich,se10,United Kingdom
+lewisham,se13,United Kingdom
+peckham,se15,United Kingdom
+walworth,se17,United Kingdom
+woolwich,se18,United Kingdom
+north southwark,se1,United Kingdom
+sydenham,se26,United Kingdom
+west norwood,se27,United Kingdom
+thamesmead,se28,United Kingdom
+blackheath,se3,United Kingdom
+blackheath park,se3,United Kingdom
+westcombe park,se3,United Kingdom
+camberwell,se5,United Kingdom
+catford,se6,United Kingdom
+charlton,se7,United Kingdom
+eltham,se9,United Kingdom
+new eltham,se9,United Kingdom
+morden,sm4,United Kingdom
+morden park,sm4,United Kingdom
+carshalton,sm5,United Kingdom
+clapham junction,sw11,United Kingdom
+barnes,sw13,United Kingdom
+streatham,sw16,United Kingdom
+wandsworth,sw18,United Kingdom
+merton,sw19,United Kingdom
+south wimbledon,sw19,United Kingdom
+wimbledon,sw19,United Kingdom
+westminster,sw1a,United Kingdom
+pimlico,sw1v,United Kingdom
+lambeth,sw2,United Kingdom
+streatham hill,sw2,United Kingdom
+fulham,sw6,United Kingdom
+brixton,sw9,United Kingdom
+richmond,tw10,United Kingdom
+feltham,tw13,United Kingdom
+hanworth,tw13,United Kingdom
+twickenham,tw1,United Kingdom
+hounslow,tw3,United Kingdom
+hounslow west,tw3,United Kingdom
+lampton,tw3,United Kingdom
+heston,tw5,United Kingdom
+isleworth,tw7,United Kingdom
+brentford,tw8,United Kingdom
+southall,ub1,United Kingdom
+harlington,ub3,United Kingdom
+hayes,ub3,United Kingdom
+hillingdon,ub3,United Kingdom
+northolt,ub5,United Kingdom
+greenford,ub6,United Kingdom
+uxbridge,ub8,United Kingdom
+ealing,w13,United Kingdom
+acton,w3,United Kingdom
+chiswick,w4,United Kingdom
+brook green,w6,United Kingdom
+hammersmith,w6,United Kingdom
+hanwell,w7,United Kingdom
+kensington,w8,United Kingdom
+maida vale,w9,United Kingdom
+west kilburn,w9,United Kingdom
+bickley,br1,United Kingdom
+west wickham,br4,United Kingdom
+petts wood,br5,United Kingdom
+chislehurst,br7,United Kingdom
+addiscombe,cr0,United Kingdom
+south croydon,cr2,United Kingdom
+kenley,cr8,United Kingdom
+purley,cr8,United Kingdom
+east wickham,da16,United Kingdom
+belvedere,da17,United Kingdom
+crayford,da1,United Kingdom
+wanstead,e11,United Kingdom
+west ham,e15,United Kingdom
+south woodford,e18,United Kingdom
+stepney,e1,United Kingdom
+whitechapel,e1,United Kingdom
+shadwell,e1w,United Kingdom
+wapping,e1w,United Kingdom
+mile end,e3,United Kingdom
+highams park,e4,United Kingdom
+hackney wick,e9,United Kingdom
+clerkenwell,ec1r,United Kingdom
+shoreditch,ec2a,United Kingdom
+london,ec2v,United Kingdom
+ponders end,en3,United Kingdom
+east barnet,en5,United Kingdom
+sudbury,ha0,United Kingdom
+wealdstone,ha3,United Kingdom
+eastcote,ha5,United Kingdom
+burnt oak,ha8,United Kingdom
+cranbrook,ig1,United Kingdom
+gants hill,ig2,United Kingdom
+seven kings,ig3,United Kingdom
+clayhall,ig5,United Kingdom
+barkingside,ig6,United Kingdom
+hainault,ig7,United Kingdom
+hale end,ig8,United Kingdom
+worcester park,kt4,United Kingdom
+chessington,kt9,United Kingdom
+hook,kt9,United Kingdom
+bounds green,n11,United Kingdom
+brunswick park,n11,United Kingdom
+new southgate,n11,United Kingdom
+friern barnet,n12,United Kingdom
+palmers green,n13,United Kingdom
+southgate,n14,United Kingdom
+seven sisters,n15,United Kingdom
+west green,n15,United Kingdom
+stoke newington,n16,United Kingdom
+canonbury,n1,United Kingdom
+hoxton,n1,United Kingdom
+kings cross,n1,United Kingdom
+totteridge,n20,United Kingdom
+winchmore hill,n21,United Kingdom
+east finchley,n2,United Kingdom
+brownswood park,n4,United Kingdom
+finsbury park,n4,United Kingdom
+highgate,n6,United Kingdom
+holloway,n7,United Kingdom
+crouch end,n8,United Kingdom
+hornsey,n8,United Kingdom
+harlesden,nw10,United Kingdom
+kensal green,nw10,United Kingdom
+golders green,nw11,United Kingdom
+hampstead garden suburb,nw11,United Kingdom
+primrose hill,nw1,United Kingdom
+brondesbury,nw2,United Kingdom
+dollis hill,nw2,United Kingdom
+gospel oak,nw3,United Kingdom
+hampstead,nw3,United Kingdom
+swiss cottage,nw3,United Kingdom
+west hendon,nw4,United Kingdom
+kentish town,nw5,United Kingdom
+queens park,nw6,United Kingdom
+mill hill,nw7,United Kingdom
+colindale,nw9,United Kingdom
+emerson park,rm11,United Kingdom
+elm park,rm12,United Kingdom
+rainham,rm13,United Kingdom
+harold hill,rm3,United Kingdom
+harold wood,rm3,United Kingdom
+vauxhall,se11,United Kingdom
+lee,se12,United Kingdom
+ladywell,se13,United Kingdom
+new cross,se14,United Kingdom
+nunhead,se15,United Kingdom
+rotherhithe,se16,United Kingdom
+newington,se17,United Kingdom
+plumstead,se18,United Kingdom
+crystal palace,se19,United Kingdom
+gipsy hill,se19,United Kingdom
+upper norwood,se19,United Kingdom
+bankside,se1,United Kingdom
+penge,se20,United Kingdom
+tulse hill,se21,United Kingdom
+east dulwich,se22,United Kingdom
+forest hill,se23,United Kingdom
+herne hill,se24,United Kingdom
+south norwood,se25,United Kingdom
+st helier,sm5,United Kingdom
+wallington,sm6,United Kingdom
+tooting,sw17,United Kingdom
+earlsfield,sw18,United Kingdom
+belgravia,sw1w,United Kingdom
+kew,tw9,United Kingdom
+norwood green,ub2,United Kingdom
+perivale,ub6,United Kingdom
+west drayton,ub7,United Kingdom
+kensal town,w10,United Kingdom
+shepherds bush,w12,United Kingdom
+bloomsbury,wc1b,United Kingdom
+finsbury,wc1x,United Kingdom
+holborn,wc2a,United Kingdom
+covent garden,wc2e,United Kingdom
